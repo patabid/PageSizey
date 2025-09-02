@@ -5,6 +5,10 @@ PageSizey is a simple module written to facilitate getting the most likely paper
 
 Its primary use case is to identify the most likely page size code (ex. A4) from the `CropBox` feature in a pdf. 
 
+## Installation
+```
+pip install PageSizey
+```
 ## Example:
 ```
 from pagesizey import page_size
